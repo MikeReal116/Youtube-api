@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+html{
+   font-size:  62.5%;
+}
+.container{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+.container__content{
+    display: flex;
+    justify-content: space-between;
+}
+.container__content-left{
+   flex: 0 0 70%;
+}

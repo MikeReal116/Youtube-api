@@ -1,0 +1,8 @@
+.video{
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.video-thumb{
+    margin-right: 1rem;
+}

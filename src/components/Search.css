@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    justify-content: center;
+    color: #777;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+.form__input{
+    margin:1rem ;
+    padding: 1rem ;
+    font-size: 1.3rem;
+    border: .1rem solid #777;
+    width: 40%;
+}
+.form__input:focus{
+    outline: none;
+}
+.form__label{
+    font-size: 1.5rem;
+    margin: 2rem;
+}
